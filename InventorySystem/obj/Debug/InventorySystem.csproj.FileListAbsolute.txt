@@ -1,0 +1,36 @@
+C:\Users\xman\source\repos\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe.config
+C:\Users\xman\source\repos\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe
+C:\Users\xman\source\repos\InventorySystem\InventorySystem\bin\Debug\InventorySystem.pdb
+C:\Users\xman\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csprojAssemblyReference.cache
+C:\Users\xman\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Form1.resources
+C:\Users\xman\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Properties.Resources.resources
+C:\Users\xman\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.GenerateResource.cache
+C:\Users\xman\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\xman\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.exe
+C:\Users\xman\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.pdb
+C:\Users\xman\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Form2.resources
+C:\Users\xman\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Form3.resources
+C:\Users\xman\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Form4.resources
+C:\Users\xman\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Form5.resources
+C:\Users\xman\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Form6.resources
+C:\Users\xman\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Form7.resources
+C:\Users\EDWARD ENEJOSA\Desktop\InventorySystem\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe.config
+C:\Users\EDWARD ENEJOSA\Desktop\InventorySystem\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe
+C:\Users\EDWARD ENEJOSA\Desktop\InventorySystem\InventorySystem\InventorySystem\bin\Debug\InventorySystem.pdb
+C:\Users\EDWARD ENEJOSA\Desktop\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csprojAssemblyReference.cache
+C:\Users\EDWARD ENEJOSA\Desktop\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Form3.resources
+C:\Users\EDWARD ENEJOSA\Desktop\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frm_Dashboard.resources
+C:\Users\EDWARD ENEJOSA\Desktop\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frmReport.resources
+C:\Users\EDWARD ENEJOSA\Desktop\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Form6.resources
+C:\Users\EDWARD ENEJOSA\Desktop\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Form7.resources
+C:\Users\EDWARD ENEJOSA\Desktop\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Properties.Resources.resources
+C:\Users\EDWARD ENEJOSA\Desktop\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.GenerateResource.cache
+C:\Users\EDWARD ENEJOSA\Desktop\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\EDWARD ENEJOSA\Desktop\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.exe
+C:\Users\EDWARD ENEJOSA\Desktop\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.pdb
+C:\Users\EDWARD ENEJOSA\Desktop\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frm_CreateAccount.resources
+C:\Users\EDWARD ENEJOSA\Desktop\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frm_Login.resources
+C:\Users\EDWARD ENEJOSA\Desktop\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frm_AddProduct.resources
+C:\Users\EDWARD ENEJOSA\Desktop\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frm_UpdateProduct.resources
+C:\Users\EDWARD ENEJOSA\Desktop\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frm_DeleteProduct.resources
+C:\Users\EDWARD ENEJOSA\Desktop\InventorySystem\InventorySystem\InventorySystem\obj\Debug\InventorySystem.frm_ViewInventory.resources
